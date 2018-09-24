@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Food Trucks and Buildings</string>
+    <string name="title_activity_truck">Map</string>
+    <string name="title_activity_map">Map</string>
+    <string name="map_button_text">MAP</string>
+</resources>
